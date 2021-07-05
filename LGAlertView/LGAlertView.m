@@ -768,6 +768,7 @@ LGAlertViewType;
                                              delegate:delegate];
 }
 
+/*
 + (nonnull instancetype)alertViewWithTextFieldsAndTitle:(nullable NSString *)title
                                                 message:(nullable NSString *)message
                                      numberOfTextFields:(NSUInteger)numberOfTextFields
@@ -785,7 +786,8 @@ LGAlertViewType;
                                   destructiveButtonTitle:destructiveButtonTitle
                                                 delegate:delegate];
 }
-
+*/
+ 
 #pragma mark -
 
 - (nonnull instancetype)initAsAppearance {
